@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narengonzalez
 - 👀 I’m interested in swimming, videogames, football (soccer)
-- 🌱 I’m currently learning about DevOps, web development 
+- 🌱 I’m currently learning about DevOps, web development, cloud (Azure, AWS, GCP)
 - 💞️ I’m looking to collaborate on web solutions, plugins and different stuff related to code
 - 📫 How to reach me, please text me at [narengonzalez@outlook.com](mailto:narengonzalez@outlook.com) or [narengonzalez61@gmail.com](mailto:narengonzalez61@gmail.com)
 
